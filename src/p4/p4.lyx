@@ -1,0 +1,539 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass amsart
+\use_default_options true
+\master ../main.lyx
+\begin_removed_modules
+theorems-ams
+\end_removed_modules
+\begin_modules
+eqs-within-sections
+figs-within-sections
+tabs-within-sections
+theorems-ams-chap-bytype
+theorems-ams-extended-chap-bytype
+algorithm2e
+customHeadersFooters
+enumitem
+logicalmkup
+todonotes
+\end_modules
+\maintain_unincluded_children false
+\language german-ch
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "Libertinus Serif"
+\font_sans "default" "Avenir LT Std"
+\font_typewriter "default" "Source Code Pro"
+\font_math "auto" "default"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 93
+\use_microtype true
+\use_dash_ligatures true
+\graphics default
+\default_output_format pdf5
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing other 1.09
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "linkcolor=black,  frenchlinks=true, citecolor=black, urlcolor=blue, filecolor=blue, pdfpagelayout=OneColumn, pdfnewwindow=true, pdfstartview=XYZ, plainpages=false"
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine biblatex
+\cite_engine_type numerical
+\biblatex_bibstyle nature
+\biblatex_citestyle alphabetic-verb
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.75in
+\topmargin 0.75in
+\rightmargin 0.75in
+\bottommargin 1in
+\headsep 0.3in
+\footskip 0.3in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side right
+\quotes_style swiss
+\dynamic_quotes 1
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\listings_params "basicstyle={\ttfamily\normalsize},commentstyle={\sffamily},columns=fullflexible,numbers=left,numberstyle={\ttfamily\scriptsize},stepnumber=1,numberblanklines=false,firstline=1,numbersep=9pt,frame=tlb,framexleftmargin=3pt,framextopmargin=2pt,framexbottommargin=1pt,aboveskip={\medskipamount},belowskip={\medskipamount},captionpos=b,floatplacement=tbp,tabsize=4,resetmargins=false,breaklines=true,breakatwhitespace=false,breakautoindent=true,breakindent=0pt,prebreak={...},postbreak={...},extendedchars=true"
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="3">
+<features booktabs="true" islongtable="true" longtabularalignment="center">
+<column alignment="left" valignment="top" width="60text%">
+<column alignment="center" valignment="top" width="4text%">
+<column alignment="right" valignment="top" width="30.5text%">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size largest
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size largest
+\lang english
+Employment
+\end_layout
+
+\end_inset
+
+
+\size larger
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size large
+\lang english
+Internship
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Software Developer
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+META Motoren- und Energie-Technik GmbH
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jul.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+15
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Market Researcher
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Formula $\,$
+\end_inset
+
+Vanke Co., Ltd.
+\begin_inset Newline newline
+\end_inset
+
+
+\family default
+\size default
+
+\begin_inset VSpace 1mm
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jul.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+17
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\;\;\rightharpoonup\;\;$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Aug.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+17
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size large
+\lang english
+Part-time Position
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Software Developer
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+Department of Speech Pathology & Audiology, East China Normal University
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Sep.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+17
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\;\;\rightharpoonup\;\;$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
