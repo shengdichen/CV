@@ -123,6 +123,231 @@ todonotes
 \begin_body
 
 \begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="3">
+<features booktabs="true" islongtable="true" longtabularalignment="center">
+<column alignment="left" valignment="top" width="65text%">
+<column alignment="left" valignment="top" width="5.5text%">
+<column alignment="right" valignment="top" width="0pt">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size tiny
+\begin_inset Formula $\phantom{}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="3" alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+\begin_inset Graphics
+	filename /mnt/x/Dox/amperstand/me/cv/bin/me.jpg
+	height 4.85cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size giant
+\begin_inset Formula $\vphantom{\frac{\mathop{\prod}}{}}$
+\end_inset
+
+
+\series bold
+Shengdi
+\series default
+\size default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset VSpace 4mm
+\end_inset
+
+
+\series bold
+\size giant
+Chen
+\series default
+\size default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset VSpace 2.5mm
+\end_inset
+
+
+\size larger
+
+\begin_inset Formula $\vphantom{\frac{}{\mathop{\prod}}}$
+\end_inset
+
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+me@shengdichen.xyz
+\end_layout
+
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "pgp"
+target "https://keys.openpgp.org/search?q=me%40shengdichen.xyz"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Formula $\;$
+\end_inset
+
+
+\begin_inset Formula $\begin{alignedat}{1}\left|\vphantom{\frac{}{}}\right.\end{alignedat}
+$
+\end_inset
+
+
+\begin_inset Formula $\;$
+\end_inset
+
+ 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+shenchen@ethz.ch
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage newpage
 \end_inset
 
