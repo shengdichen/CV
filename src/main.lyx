@@ -25,6 +25,7 @@ tabs-within-sections
 theorems-ams-chap-bytype
 theorems-ams-extended-chap-bytype
 algorithm2e
+customHeadersFooters
 enumitem
 logicalmkup
 todonotes
