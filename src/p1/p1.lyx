@@ -5,16 +5,8 @@
 \save_transient_properties true
 \origin unavailable
 \textclass amsart
-\begin_preamble
-% \renewcommand{\headrulewidth}{0.7pt}
-
-%\usepackage[%
-%	skip=0pt plus7pt minus7pt,%
-%	tocskip=10pt plus1pt minu1pt,%
-%	indent=13pt,%
-%]{parskip}
-\end_preamble
 \use_default_options true
+\master ../main.lyx
 \begin_removed_modules
 theorems-ams
 \end_removed_modules
@@ -31,11 +23,11 @@ logicalmkup
 todonotes
 \end_modules
 \maintain_unincluded_children false
-\language english
+\language german-ch
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "Constantia"
+\font_roman "default" "Libertinus Serif"
 \font_sans "default" "Avenir LT Std"
 \font_typewriter "default" "Source Code Pro"
 \font_math "auto" "default"
@@ -52,22 +44,18 @@ todonotes
 \output_sync 0
 \bibtex_command default
 \index_command default
-\paperfontsize 12
-\spacing other 1.1
+\paperfontsize 11
+\spacing other 1.09
 \use_hyperref true
-\pdf_title "Curriculum Vitae"
-\pdf_author "Shengdi Chen"
-\pdf_subject "Curriculum Vitae of Shengdi »shc« Chen"
-\pdf_keywords "CV"
 \pdf_bookmarks true
-\pdf_bookmarksnumbered true
-\pdf_bookmarksopen true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
 \pdf_bookmarksopenlevel 1
 \pdf_breaklinks false
 \pdf_pdfborder false
 \pdf_colorlinks true
 \pdf_backref false
-\pdf_pdfusetitle false
+\pdf_pdfusetitle true
 \pdf_quoted_options "linkcolor=black,  frenchlinks=true, citecolor=black, urlcolor=blue, filecolor=blue, pdfpagelayout=OneColumn, pdfnewwindow=true, pdfstartview=XYZ, plainpages=false"
 \papersize a4paper
 \use_geometry true
@@ -96,10 +84,10 @@ todonotes
 \shortcut idx
 \color #008000
 \end_index
-\leftmargin 2.5cm
-\topmargin 2.5cm
-\rightmargin 2.5cm
-\bottommargin 2.5cm
+\leftmargin 0.75in
+\topmargin 0.75in
+\rightmargin 0.75in
+\bottommargin 1in
 \headsep 0.3in
 \footskip 0.3in
 \secnumdepth 3
@@ -108,11 +96,11 @@ todonotes
 \paragraph_indentation default
 \is_math_indent 0
 \math_numbering_side right
-\quotes_style danish
+\quotes_style swiss
 \dynamic_quotes 1
 \papercolumns 1
-\papersides 1
-\paperpagestyle empty
+\papersides 2
+\paperpagestyle fancy
 \listings_params "basicstyle={\ttfamily\normalsize},commentstyle={\sffamily},columns=fullflexible,numbers=left,numberstyle={\ttfamily\scriptsize},stepnumber=1,numberblanklines=false,firstline=1,numbersep=9pt,frame=tlb,framexleftmargin=3pt,framextopmargin=2pt,framexbottommargin=1pt,aboveskip={\medskipamount},belowskip={\medskipamount},captionpos=b,floatplacement=tbp,tabsize=4,resetmargins=false,breaklines=true,breakatwhitespace=false,breakautoindent=true,breakindent=0pt,prebreak={...},postbreak={...},extendedchars=true"
 \tracking_changes false
 \output_changes false
@@ -124,20 +112,51 @@ todonotes
 \begin_body
 
 \begin_layout Standard
+
+\lang english
 \begin_inset Tabular
-<lyxtabular version="3" rows="2" columns="3">
+<lyxtabular version="3" rows="4" columns="3">
 <features booktabs="true" islongtable="true" longtabularalignment="center">
-<column alignment="left" valignment="top" width="65text%">
-<column alignment="left" valignment="top" width="5.5text%">
-<column alignment="right" valignment="top" width="0pt">
+<column alignment="left" valignment="top" width="40text%">
+<column alignment="left" valignment="middle" width="23.5text%">
+<column alignment="left" valignment="top" width="28.5text%">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
-\size tiny
-\begin_inset Formula $\phantom{}$
+\family sans
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Gender
+\end_layout
+
+\end_inset
+
+: Male
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="3" alignment="left" valignment="middle" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+\begin_inset Formula $\begin{alignedat}{1}\textsf{Stettbachstrasse 43}\\
+\textsf{8057}\;\textsf{Zürich}\\
+\textsf{Schweiz}
+\end{alignedat}
+$
 \end_inset
 
 
@@ -149,23 +168,6 @@ todonotes
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell multirow="3" alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size scriptsize
-\begin_inset Graphics
-	filename /mnt/x/Dox/amperstand/me/cv/bin/me.jpg
-	height 4.85cm
-
-\end_inset
-
 
 \end_layout
 
@@ -173,114 +175,81 @@ todonotes
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+<cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
-\size giant
-\begin_inset Formula $\vphantom{\frac{\mathop{\prod}}{}}$
-\end_inset
-
-
-\series bold
-Shengdi
-\series default
-\size default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset VSpace 4mm
-\end_inset
-
-
-\series bold
-\size giant
-Chen
-\series default
-\size default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset VSpace 2.5mm
-\end_inset
-
-
-\size larger
-
-\begin_inset Formula $\vphantom{\frac{}{\mathop{\prod}}}$
-\end_inset
-
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\xout off
-\uuline off
-\uwave off
-\noun off
-\color none
-
-\begin_inset Flex Code
+\family sans
+\lang english
+\begin_inset Flex Strong
 status open
 
 \begin_layout Plain Layout
 
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\xout off
-\uuline off
-\uwave off
-\noun off
-\color none
-me@shengdichen.xyz
+\family sans
+\lang english
+DoB
 \end_layout
 
 \end_inset
 
+: 09.
+ Oct.
+ 1997
+\end_layout
 
+\end_inset
+</cell>
+<cell multirow="4" alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Site
+\end_layout
+
+\end_inset
+
+: 
 \family default
-\series default
-\shape default
-\size default
-\emph default
-\bar default
-\strikeout default
-\xout default
-\uuline default
-\uwave default
-\noun default
-\color inherit
 
-\begin_inset script superscript
-
-\begin_layout Plain Layout
 \begin_inset Flex Code
 status open
 
 \begin_layout Plain Layout
-\begin_inset CommandInset href
-LatexCommand href
-name "pgp"
-target "https://keys.openpgp.org/search?q=me%40shengdichen.xyz"
-literal "false"
 
-\end_inset
-
-
+\lang english
+shengdichen.xyz
 \end_layout
 
 \end_inset
@@ -289,30 +258,11 @@ literal "false"
 \end_layout
 
 \end_inset
-
- 
-\begin_inset Formula $\;$
-\end_inset
-
-
-\begin_inset Formula $\begin{alignedat}{1}\left|\vphantom{\frac{}{}}\right.\end{alignedat}
-$
-\end_inset
-
-
-\begin_inset Formula $\;$
-\end_inset
-
- 
-\begin_inset Flex Code
-status open
+</cell>
+<cell multirow="4" alignment="left" valignment="top" usebox="none">
+\begin_inset Text
 
 \begin_layout Plain Layout
-shenchen@ethz.ch
-\end_layout
-
-\end_inset
-
 
 \end_layout
 
@@ -327,10 +277,62 @@ shenchen@ethz.ch
 
 \end_inset
 </cell>
-<cell multirow="4" alignment="right" valignment="top" usebox="none">
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\family sans
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Mobile
+\end_layout
+
+\end_inset
+
+: +41 76 465 65 86
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset VSpace 1.5mm
+\end_inset
+
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffff ii i i ii
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
@@ -338,67 +340,6 @@ shenchen@ethz.ch
 </cell>
 </row>
 </lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "p1/p1.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "p2/p2.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "p3/p3.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "p4/p4.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "p5/p5.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-btprint "btPrintAll"
-bibfiles "bib/main"
 
 \end_inset
 

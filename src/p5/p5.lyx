@@ -1,0 +1,2378 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass amsart
+\use_default_options true
+\master ../main.lyx
+\begin_removed_modules
+theorems-ams
+\end_removed_modules
+\begin_modules
+eqs-within-sections
+figs-within-sections
+tabs-within-sections
+theorems-ams-chap-bytype
+theorems-ams-extended-chap-bytype
+algorithm2e
+customHeadersFooters
+enumitem
+logicalmkup
+todonotes
+\end_modules
+\maintain_unincluded_children false
+\language german-ch
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "Libertinus Serif"
+\font_sans "default" "Avenir LT Std"
+\font_typewriter "default" "Source Code Pro"
+\font_math "auto" "default"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 93
+\use_microtype true
+\use_dash_ligatures true
+\graphics default
+\default_output_format pdf5
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing other 1.09
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "linkcolor=black,  frenchlinks=true, citecolor=black, urlcolor=blue, filecolor=blue, pdfpagelayout=OneColumn, pdfnewwindow=true, pdfstartview=XYZ, plainpages=false"
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine biblatex
+\cite_engine_type numerical
+\biblatex_bibstyle nature
+\biblatex_citestyle alphabetic-verb
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.75in
+\topmargin 0.75in
+\rightmargin 0.75in
+\bottommargin 1in
+\headsep 0.3in
+\footskip 0.3in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side right
+\quotes_style swiss
+\dynamic_quotes 1
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\listings_params "basicstyle={\ttfamily\normalsize},commentstyle={\sffamily},columns=fullflexible,numbers=left,numberstyle={\ttfamily\scriptsize},stepnumber=1,numberblanklines=false,firstline=1,numbersep=9pt,frame=tlb,framexleftmargin=3pt,framextopmargin=2pt,framexbottommargin=1pt,aboveskip={\medskipamount},belowskip={\medskipamount},captionpos=b,floatplacement=tbp,tabsize=4,resetmargins=false,breaklines=true,breakatwhitespace=false,breakautoindent=true,breakindent=0pt,prebreak={...},postbreak={...},extendedchars=true"
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Tabular
+<lyxtabular version="3" rows="27" columns="3">
+<features booktabs="true" islongtable="true" longtabularalignment="center">
+<column alignment="left" valignment="top" width="60text%">
+<column alignment="center" valignment="top" width="4text%">
+<column alignment="right" valignment="top" width="30.5text%">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+\lang english
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size largest
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size largest
+\lang english
+Academic
+\end_layout
+
+\end_inset
+
+
+\size larger
+
+\begin_inset Formula $\vphantom{\frac{}{}}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size largest
+
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size largest
+\lang english
+Achievements
+\end_layout
+
+\end_inset
+
+
+\size larger
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\size largest
+
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size largest
+\lang english
+Academic Achievements
+\end_layout
+
+\end_inset
+
+
+\size larger
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size large
+\lang english
+Scholarship
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Admission to German Academic Scholarship Foundation
+\size scriptsize
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\size scriptsize
+\lang english
+\begin_inset Formula $\,$
+\end_inset
+
+
+\family sans
+No monetary funding due to non-German nationality and non-German University
+ for B.Sc.
+ Studies.
+\begin_inset Newline newline
+\end_inset
+
+
+\family default
+
+\begin_inset Formula $\phantom{\textsf{ii}}$
+\end_inset
+
+
+\family sans
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+[
+\end_layout
+
+\end_inset
+
+Contact: Dr.
+ R.
+ Hain
+\family default
+ | 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+hain@studienstiftung.de
+\end_layout
+
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+]
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\size default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+(Studienstiftung des deutschen Volkes
+\size default
+)
+\begin_inset Newline newline
+\end_inset
+
+
+\family default
+
+\begin_inset VSpace 1mm
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Dec.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+17
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size large
+\lang english
+Patent
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Quotes xld
+\end_inset
+
+Methods of Establishing Prediction-Models of Rehabilitation Efficacy of
+ Child Autism
+\begin_inset Quotes xrd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\family sans
+Application Number: 
+\family default
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+202011188949.0
+\end_layout
+
+\end_inset
+
+
+\family sans
+
+\begin_inset Newline newline
+\end_inset
+
+
+\family default
+
+\begin_inset VSpace 1mm
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Oct.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+20
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size large
+\lang english
+Publication
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Quotes xld
+\end_inset
+
+Evaluation and Training of Social Ability of Children with Autism Based
+ on Robot Technology
+\begin_inset Quotes xrd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+China Educational Technology & Equipment, 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\lang english
+1671-489X
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size default
+
+\begin_inset VSpace 1mm
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jun.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+21
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size large
+\lang english
+Mathematics
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Perfect Score
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+https://www.maa.org/math-competitions/amc-8
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+American Mathematics Competition 8
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+???.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+??
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+? Finalist
+\family default
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\lang english
+https://www.comap.com/contests/himcm-midmcm
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\family sans
+\size footnotesize
+HiMCM 
+\size scriptsize
+(COMAP's High School Mathematical Contest in Modeling)
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+???.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+??
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Finalist
+\family default
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\lang english
+https://www.comap.com/contests/mcm-icm
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\family sans
+\size footnotesize
+MCM 
+\size scriptsize
+(COMAP's Mathematical Contest in Modeling)
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+???.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+??
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+State Gold Medalist & Champion
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Formula $\textsf{54}^{\textsf{th}}$
+\end_inset
+
+ German Mathematics 
+\size scriptsize
+(
+\begin_inset Formula $\textsf{54.}$
+\end_inset
+
+ Mathematik-Olympiade)
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Feb.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+15
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+National Silver Medalist
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Formula $\textsf{54}^{\textsf{th}}$
+\end_inset
+
+ German Mathematics 
+\size scriptsize
+(
+\begin_inset Formula $\textsf{54.}$
+\end_inset
+
+ Mathematik-Olympiade)
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jun.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+15
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+\lang english
+\begin_inset Formula $\textsf{6}^{\textsf{th}}$
+\end_inset
+
+ 
+\size default
+Global Team Ranking
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Formula $\textsf{26}^{\textsf{th}}$
+\end_inset
+
+ Baltic Way Mathematical Team Contest
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Nov.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+15
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+State Gold Medalist & Champion
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Formula $\textsf{55}^{\textsf{th}}$
+\end_inset
+
+ German Mathematics 
+\size scriptsize
+(
+\begin_inset Formula $\textsf{55.}$
+\end_inset
+
+ Mathematik-Olympiade)
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Feb.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+16
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+\lang english
+\begin_inset Formula $\textsf{2}^{\textsf{nd}}$
+\end_inset
+
+ 
+\size default
+Prize
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+First Round of Federal Contest of Mathematics of Germany 
+\size scriptsize
+(Bundeswettbewerb Mathematik)
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+May.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+16
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+\lang english
+\begin_inset Formula $\textsf{1}^{\textsf{st}}$
+\end_inset
+
+ 
+\size default
+Prize
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+https://www.mathe-kaenguru.de/index.html
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+Math Kangaroo Competition 
+\size scriptsize
+(Känguru der Mathematik)
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+May.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+16
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+State 
+\size footnotesize
+
+\begin_inset Formula $\textsf{3}^{\textsf{rd}}$
+\end_inset
+
+ 
+\size default
+Prize
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Formula $\textsf{56}^{\textsf{th}}$
+\end_inset
+
+ German Mathematics 
+\size scriptsize
+(
+\begin_inset Formula $\textsf{56.}$
+\end_inset
+
+ Mathematik-Olympiade)
+\family default
+\size default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset VSpace 1mm
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Feb.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+17
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size large
+\lang english
+Languages
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Participation as Ambassador
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+https://thehague.thimun.org/
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Formula $\textsf{48}^{\textsf{th}}$
+\end_inset
+
+ THIMUM
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jan.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+16
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Grade A
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+https://thehague.thimun.org/
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+CPE (Certificate of Proficiency in English), CEFR C2
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jun.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+16
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Goethe-Zertifikat
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+Grosses Deutsches Sprachdiplom, CEFR C2
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Sep.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+16
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+National 
+\size footnotesize
+
+\begin_inset Formula $\textsf{2}^{\textsf{nd}}$
+\end_inset
+
+ 
+\size default
+Prize
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+Federal Contest of Foreign Languages of Germany (Bundeswettbewerb Fremdsprachen)
+ 2016
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Sep.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+16
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+National 
+\size footnotesize
+
+\begin_inset Formula $\textsf{1}^{\textsf{st}}$
+\end_inset
+
+ 
+\size default
+Prize & Champion
+\size scriptsize
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\size scriptsize
+\lang english
+\begin_inset Formula $\,$
+\end_inset
+
+
+\family sans
+Automatic admission to German Academic Scholarship Foundation (Studienstiftung
+ des deutschen Volkes).
+\end_layout
+
+\end_inset
+
+
+\size default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+Federal Contest of Foreign Languages of Germany (Bundeswettbewerb Fremdsprachen)
+ 2017
+\begin_inset Newline newline
+\end_inset
+
+
+\family default
+\size default
+
+\begin_inset VSpace 1mm
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Sep.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+17
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size large
+\lang english
+Management
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Business@school
+\family default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Aug.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+15
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\;\;\rightharpoonup\;\;$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jun.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+16
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+TOPSIM – General Management
+\family default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jun.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+16
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
