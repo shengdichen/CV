@@ -1685,7 +1685,7 @@ status open
 
 
 \begin_inset Tabular
-<lyxtabular version="3" rows="7" columns="3">
+<lyxtabular version="3" rows="18" columns="3">
 <features booktabs="true" islongtable="true" longtabularalignment="center">
 <column alignment="left" valignment="top" width="60text%">
 <column alignment="center" valignment="top" width="4text%">
@@ -2248,6 +2248,855 @@ status open
 
 \begin_layout Plain Layout
 21
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size large
+Mathematics
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+Perfect Score
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\family sans
+https://www.maa.org/math-competitions/amc-8
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+American Mathematics Competition 8
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+???.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+??
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+? Finalist
+\family default
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+https://www.comap.com/contests/himcm-midmcm
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\family sans
+\size footnotesize
+HiMCM 
+\size scriptsize
+(COMAP's High School Mathematical Contest in Modeling)
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+???.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+??
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+Finalist
+\family default
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+https://www.comap.com/contests/mcm-icm
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\family sans
+\size footnotesize
+MCM 
+\size scriptsize
+(COMAP's Mathematical Contest in Modeling)
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+???.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+??
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+State Gold Medalist & Champion
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Formula $\textsf{54}^{\textsf{th}}$
+\end_inset
+
+ German Mathematics 
+\size scriptsize
+(
+\begin_inset Formula $\textsf{54.}$
+\end_inset
+
+ Mathematik-Olympiade)
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+Feb.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+15
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+National Silver Medalist
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Formula $\textsf{54}^{\textsf{th}}$
+\end_inset
+
+ German Mathematics 
+\size scriptsize
+(
+\begin_inset Formula $\textsf{54.}$
+\end_inset
+
+ Mathematik-Olympiade)
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+Jun.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+15
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+\begin_inset Formula $\textsf{6}^{\textsf{th}}$
+\end_inset
+
+ 
+\size default
+Global Team Ranking
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Formula $\textsf{26}^{\textsf{th}}$
+\end_inset
+
+ Baltic Way Mathematical Team Contest
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+Nov.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+15
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+State Gold Medalist & Champion
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Formula $\textsf{55}^{\textsf{th}}$
+\end_inset
+
+ German Mathematics 
+\size scriptsize
+(
+\begin_inset Formula $\textsf{55.}$
+\end_inset
+
+ Mathematik-Olympiade)
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+Feb.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+16
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+\begin_inset Formula $\textsf{2}^{\textsf{nd}}$
+\end_inset
+
+ 
+\size default
+Prize
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+First Round of Federal Contest of Mathematics of Germany 
+\size scriptsize
+(Bundeswettbewerb Mathematik)
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+May.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+16
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+\begin_inset Formula $\textsf{1}^{\textsf{st}}$
+\end_inset
+
+ 
+\size default
+Prize
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\family sans
+https://www.mathe-kaenguru.de/index.html
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+Math Kangaroo Competition 
+\size scriptsize
+(Känguru der Mathematik)
+\family default
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+May.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+16
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+State 
+\size footnotesize
+
+\begin_inset Formula $\textsf{3}^{\textsf{rd}}$
+\end_inset
+
+ 
+\size default
+Prize
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Formula $\textsf{56}^{\textsf{th}}$
+\end_inset
+
+ German Mathematics 
+\size scriptsize
+(
+\begin_inset Formula $\textsf{56.}$
+\end_inset
+
+ Mathematik-Olympiade)
+\family default
+\size default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset VSpace 1mm
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+Feb.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+17
 \end_layout
 
 \end_inset
