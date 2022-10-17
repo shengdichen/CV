@@ -115,6 +115,139 @@ todonotes
 
 \lang english
 \begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="1">
+<features booktabs="true" islongtable="true" longtabularalignment="left">
+<column alignment="block" valignment="top" width="99text%">
+<row>
+<cell alignment="block" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size largest
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size largest
+\lang english
+Skills and Interests
+\end_layout
+
+\end_inset
+
+
+\size larger
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="block" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size scriptsize
+\lang english
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\phantom{\quad}$
+\end_inset
+
+Competence in Computational Science & Applied Mathematics; Training in Natural
+ 
+\begin_inset Formula $\phantom{\quad\:\,}\textsf{Sciences}$
+\end_inset
+
+ 
+\family default
+
+\begin_inset VSpace 2mm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\family sans
+\size scriptsize
+\lang english
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\phantom{\quad}$
+\end_inset
+
+Fluent in English, Chinese and German; proficient in French; conversational
+ in 
+\begin_inset Formula $\phantom{\quad\:\,}\mathsf{Spanish}$
+\end_inset
+
+, Italian and Russian
+\family default
+
+\begin_inset VSpace 2mm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\family sans
+\size scriptsize
+\lang english
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\phantom{\quad}$
+\end_inset
+
+Wide range of hobbies: from 15-year experience in the Violin to BlackBerry
+ and 
+\begin_inset Formula $\phantom{\quad\:\,}\mathsf{ThinkPad}$
+\end_inset
+
+ Collection
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="3">
 <features booktabs="true" islongtable="true" longtabularalignment="center">
 <column alignment="left" valignment="middle" width="21text%">
@@ -282,6 +415,11 @@ Wide range of hobbies: from 15-year experience in the Violin to BlackBerry
 </cell>
 </row>
 </lyxtabular>
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
