@@ -165,8 +165,15 @@ Interests
 \begin_layout Plain Layout
 
 \family sans
+\size scriptsize
 \lang english
-\begin_inset Formula $\circ\;\;$
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\;\;$
 \end_inset
 
 Competence in Computational Science & Applied Mathematics; Training in Natural
@@ -207,8 +214,15 @@ Competence in Computational Science & Applied Mathematics; Training in Natural
 \begin_layout Plain Layout
 
 \family sans
+\size scriptsize
 \lang english
-\begin_inset Formula $\circ\;\;$
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\;\;$
 \end_inset
 
 Fluent in English, Chinese and German; proficient in French; conversational
@@ -249,8 +263,15 @@ Fluent in English, Chinese and German; proficient in French; conversational
 \begin_layout Plain Layout
 
 \family sans
+\size scriptsize
 \lang english
-\begin_inset Formula $\circ\;\;$
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\;\;$
 \end_inset
 
 Wide range of hobbies: from 15-year experience in the Violin to BlackBerry
