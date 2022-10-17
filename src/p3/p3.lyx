@@ -572,6 +572,37 @@ status open
 \size large
 \lang english
 B.Sc.
+\size scriptsize
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\size scriptsize
+\lang english
+\begin_inset Formula $\,$
+\end_inset
+
+
+\family sans
+
+\begin_inset CommandInset href
+LatexCommand href
+name "B.Sc. Thesis"
+target "https://github.com/shengdichen/shetris-tss"
+literal "false"
+
+\end_inset
+
+ (6.0/6.0): Mastering Tetris with Reinforcement-Learning; supervised by Prof.
+ Dr.
+ J.
+ Buhmann, D-INFK.
+\end_layout
+
+\end_inset
+
  & M.Sc.
 \end_layout
 
@@ -613,6 +644,27 @@ B.Sc.
 
 \lang english
 Computational Science and Engineering
+\family sans
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\size scriptsize
+\lang english
+\begin_inset Formula $\,$
+\end_inset
+
+
+\family sans
+Specialization: Control Theory (major) & Robotics (minor).
+\end_layout
+
+\end_inset
+
+
+\family default
 \size footnotesize
 
 \begin_inset Newline newline
