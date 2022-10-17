@@ -875,7 +875,7 @@ status open
 
 \family sans
 \lang english
-? Finalist
+Finalist
 \family default
 
 \begin_inset Note Note
@@ -896,7 +896,7 @@ https://www.comap.com/contests/himcm-midmcm
 
 \family sans
 \size footnotesize
-HiMCM 
+2013 HiMCM 
 \size scriptsize
 (COMAP's High School Mathematical Contest in Modeling)
 \family default
@@ -931,7 +931,7 @@ status open
 \begin_layout Plain Layout
 
 \lang english
-???.
+Jan.
 \end_layout
 
 \end_inset
@@ -945,9 +945,7 @@ status open
 status open
 
 \begin_layout Plain Layout
-
-\lang english
-??
+14
 \end_layout
 
 \end_inset
