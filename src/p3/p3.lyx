@@ -569,13 +569,10 @@ status open
 \begin_layout Plain Layout
 
 \family sans
-\size large
 \lang english
 B.Sc.
-\size scriptsize
-
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -642,29 +639,26 @@ literal "false"
 
 \begin_layout Plain Layout
 
+\family sans
 \lang english
 Computational Science and Engineering
-\family sans
-
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
 
+\family sans
 \size scriptsize
 \lang english
 \begin_inset Formula $\,$
 \end_inset
 
-
-\family sans
 Specialization: Control Theory (major) & Robotics (minor).
 \end_layout
 
 \end_inset
 
 
-\family default
 \size footnotesize
 
 \begin_inset Newline newline
@@ -675,8 +669,6 @@ Specialization: Control Theory (major) & Robotics (minor).
 \end_inset
 
  RW)
-\family sans
-
 \begin_inset Newline newline
 \end_inset
 
