@@ -115,11 +115,12 @@ todonotes
 
 \lang english
 \begin_inset Tabular
-<lyxtabular version="3" rows="2" columns="1">
+<lyxtabular version="3" rows="4" columns="2">
 <features booktabs="true" islongtable="true" longtabularalignment="left">
-<column alignment="block" valignment="top" width="99text%">
+<column alignment="left" valignment="top" width="2text%">
+<column alignment="block" valignment="top" width="94.5text%">
 <row>
-<cell alignment="block" valignment="top" usebox="none">
+<cell multicolumn="1" alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -150,9 +151,18 @@ Skills and Interests
 
 \end_inset
 </cell>
+<cell multicolumn="2" alignment="block" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
 </row>
 <row>
-<cell alignment="block" valignment="top" usebox="none">
+<cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -169,19 +179,34 @@ Skills and Interests
 \begin_inset Formula $\phantom{\quad}$
 \end_inset
 
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="block" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
 Competence in Computational Science & Applied Mathematics; Training in Natural
- 
-\begin_inset Formula $\phantom{\quad\:\,}\textsf{Sciences}$
-\end_inset
-
- 
+ Sciences
 \family default
 
-\begin_inset VSpace 2mm
+\begin_inset VSpace defskip
 \end_inset
 
 
 \end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
 
 \begin_layout Plain Layout
 
@@ -197,12 +222,20 @@ Competence in Computational Science & Applied Mathematics; Training in Natural
 \begin_inset Formula $\phantom{\quad}$
 \end_inset
 
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="block" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
 Fluent in English, Chinese and German; proficient in French; conversational
- in 
-\begin_inset Formula $\phantom{\quad\:\,}\mathsf{Spanish}$
-\end_inset
-
-, Italian and Russian
+ in Spanish, Italian and Russian
 \family default
 
 \begin_inset VSpace 2mm
@@ -210,6 +243,13 @@ Fluent in English, Chinese and German; proficient in French; conversational
 
 
 \end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
 
 \begin_layout Plain Layout
 
@@ -225,12 +265,20 @@ Fluent in English, Chinese and German; proficient in French; conversational
 \begin_inset Formula $\phantom{\quad}$
 \end_inset
 
-Wide range of hobbies: from 15-year experience in the Violin to BlackBerry
- and 
-\begin_inset Formula $\phantom{\quad\:\,}\mathsf{ThinkPad}$
-\end_inset
 
- Collection
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="block" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Wide range of hobbies: from 15-year experience in the Violin to BlackBerry
+ and ThinkPad Collection
 \end_layout
 
 \end_inset
