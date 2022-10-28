@@ -7,4 +7,11 @@ _by_scp() {
     scp "$local_path" "$remote_path"
 }
 
+push_to_xyz() {
+    _by_scp \
+        "../src/main.pdf" \
+        "ssh_xyz:domains/shengdichen.xyz/public_html/CV.pdf"
+}
+push_to_xyz
+
 # vim: filetype=sh
