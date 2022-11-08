@@ -115,7 +115,7 @@ todonotes
 
 \lang english
 \begin_inset Tabular
-<lyxtabular version="3" rows="36" columns="3">
+<lyxtabular version="3" rows="14" columns="3">
 <features booktabs="true" islongtable="true" longtabularalignment="center">
 <column alignment="left" valignment="top" width="60text%">
 <column alignment="center" valignment="top" width="4text%">
@@ -126,13 +126,6 @@ todonotes
 
 \begin_layout Plain Layout
 
-\size larger
-\lang english
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-
 \size largest
 \lang english
 \begin_inset Flex Strong
@@ -143,60 +136,7 @@ status open
 \family sans
 \size largest
 \lang english
-Academic
-\end_layout
-
-\end_inset
-
-
-\size larger
-
-\begin_inset Formula $\vphantom{\frac{}{}}$
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\size largest
-
-\begin_inset Flex Strong
-status open
-
-\begin_layout Plain Layout
-
-\family sans
-\size largest
-\lang english
-Achievements
-\end_layout
-
-\end_inset
-
-
-\size larger
-
-\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\size largest
-
-\begin_inset Flex Strong
-status open
-
-\begin_layout Plain Layout
-
-\family sans
-\size largest
-\lang english
-Academic Achievements
+Patents
 \end_layout
 
 \end_inset
@@ -232,212 +172,6 @@ Academic Achievements
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size large
-\lang english
-\begin_inset Flex Strong
-status open
-
-\begin_layout Plain Layout
-
-\family sans
-\size large
-\lang english
-Scholarship
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family sans
-\lang english
-Admission to German Academic Scholarship Foundation
-\size scriptsize
-
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-
-\size scriptsize
-\lang english
-\begin_inset Formula $\,$
-\end_inset
-
-
-\family sans
-No monetary funding due to non-German nationality and non-German University
- for B.Sc.
- Studies.
-\begin_inset Newline newline
-\end_inset
-
-
-\family default
-
-\begin_inset Formula $\phantom{\textsf{ii}}$
-\end_inset
-
-
-\family sans
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\family sans
-\size scriptsize
-\lang english
-[
-\end_layout
-
-\end_inset
-
-Contact: Dr.
- R.
- Hain
-\family default
- | 
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\size scriptsize
-\lang english
-hain@studienstiftung.de
-\end_layout
-
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\size scriptsize
-\lang english
-]
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\size footnotesize
-(Studienstiftung des deutschen Volkes
-\size default
-)
-\begin_inset Newline newline
-\end_inset
-
-
-\family default
-
-\begin_inset VSpace 1mm
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Dec.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-17
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
 <cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
@@ -453,7 +187,7 @@ status open
 \family sans
 \size large
 \lang english
-Patent
+Granted
 \end_layout
 
 \end_inset
@@ -487,7 +221,7 @@ Patent
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -540,7 +274,7 @@ ZL 2021 1 0111675.3
 
 \end_inset
 </cell>
-<cell alignment="right" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -571,6 +305,55 @@ status open
 
 \end_inset
 
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size large
+\lang english
+Pending
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 
 \end_layout
 
@@ -1414,6 +1197,363 @@ status open
 
 \begin_layout Plain Layout
 22
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Tabular
+<lyxtabular version="3" rows="25" columns="3">
+<features booktabs="true" islongtable="true" longtabularalignment="center">
+<column alignment="left" valignment="top" width="60text%">
+<column alignment="center" valignment="top" width="4text%">
+<column alignment="right" valignment="top" width="30.5text%">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+\lang english
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size largest
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size largest
+\lang english
+Academic
+\end_layout
+
+\end_inset
+
+
+\size larger
+
+\begin_inset Formula $\vphantom{\frac{}{}}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size largest
+
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size largest
+\lang english
+Achievements
+\end_layout
+
+\end_inset
+
+
+\size larger
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\size largest
+
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size largest
+\lang english
+Academic Achievements
+\end_layout
+
+\end_inset
+
+
+\size larger
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size large
+\lang english
+Scholarship
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\lang english
+Admission to German Academic Scholarship Foundation
+\size scriptsize
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\size scriptsize
+\lang english
+\begin_inset Formula $\,$
+\end_inset
+
+
+\family sans
+No monetary funding due to non-German nationality and non-German University
+ for B.Sc.
+ Studies.
+\begin_inset Newline newline
+\end_inset
+
+
+\family default
+
+\begin_inset Formula $\phantom{\textsf{ii}}$
+\end_inset
+
+
+\family sans
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size scriptsize
+\lang english
+[
+\end_layout
+
+\end_inset
+
+Contact: Dr.
+ R.
+ Hain
+\family default
+ | 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\size scriptsize
+\lang english
+hain@studienstiftung.de
+\end_layout
+
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\size scriptsize
+\lang english
+]
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+(Studienstiftung des deutschen Volkes
+\size default
+)
+\begin_inset Newline newline
+\end_inset
+
+
+\family default
+
+\begin_inset VSpace 1mm
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Dec.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+17
 \end_layout
 
 \end_inset
