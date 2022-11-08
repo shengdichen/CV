@@ -117,9 +117,9 @@ todonotes
 \begin_inset Tabular
 <lyxtabular version="3" rows="14" columns="3">
 <features booktabs="true" islongtable="true" longtabularalignment="center">
-<column alignment="left" valignment="top" width="60text%">
+<column alignment="left" valignment="top" width="65text%">
 <column alignment="center" valignment="top" width="4text%">
-<column alignment="right" valignment="top" width="30.5text%">
+<column alignment="right" valignment="top" width="25.5text%">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
