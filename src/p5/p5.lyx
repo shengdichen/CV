@@ -115,7 +115,7 @@ todonotes
 
 \lang english
 \begin_inset Tabular
-<lyxtabular version="3" rows="14" columns="3">
+<lyxtabular version="3" rows="13" columns="3">
 <features booktabs="true" islongtable="true" longtabularalignment="center">
 <column alignment="left" valignment="top" width="65text%">
 <column alignment="center" valignment="top" width="4text%">
@@ -1150,15 +1150,6 @@ status open
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\lang english
-\begin_inset VSpace 1mm
-\end_inset
-
-
-\end_layout
-
 \end_inset
 </cell>
 <cell alignment="center" valignment="top" usebox="none">
@@ -1201,35 +1192,6 @@ status open
 
 \end_inset
 
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
 
 \end_layout
 
