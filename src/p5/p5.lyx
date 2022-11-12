@@ -115,7 +115,1066 @@ todonotes
 
 \lang english
 \begin_inset Tabular
-<lyxtabular version="3" rows="27" columns="3">
+<lyxtabular version="3" rows="13" columns="3">
+<features booktabs="true" islongtable="true" longtabularalignment="center">
+<column alignment="left" valignment="top" width="65text%">
+<column alignment="center" valignment="top" width="4text%">
+<column alignment="right" valignment="top" width="25.5text%">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size largest
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size largest
+\lang english
+Patents
+\end_layout
+
+\end_inset
+
+
+\size larger
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size large
+\lang english
+Granted
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Quotes xld
+\end_inset
+
+Methods of Establishing Prediction-Models of Rehabilitation Efficacy of
+ Child Autism
+\begin_inset Quotes xrd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+ZL 2021 1 0111675.3
+\end_layout
+
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Sep.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+21
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\lang english
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size large
+\lang english
+Pending
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Quotes xld
+\end_inset
+
+A management system for correction and treatment of speech sound disorders
+ in Mandarin Chinese for evaluation subjects of autism spectrum disorder
+\begin_inset Quotes xrd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+202210056668.2 | 2026CN-PHD212448
+\end_layout
+
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jan.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+22
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Quotes xld
+\end_inset
+
+An intelligent recommendation and delivery method of speech-training solutions
+ of Mandarin Chinese
+\begin_inset Quotes xrd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+202210056677.1 | 2026CN-PHD212449
+\end_layout
+
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jan.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+22
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Quotes xld
+\end_inset
+
+A generating system for correction and treatment solutions of speech sound
+ disorders pertaining to the 
+\begin_inset Quotes qld
+\end_inset
+
+b
+\begin_inset Quotes qrd
+\end_inset
+
+ consonantal sound
+\begin_inset Quotes xrd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+202210055402.6 | 2026CN-PHD212450
+\end_layout
+
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jan.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+22
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Quotes xld
+\end_inset
+
+A generating system for correction and treatment solutions of speech sound
+ disorders pertaining to the 
+\begin_inset Quotes qld
+\end_inset
+
+m
+\begin_inset Quotes qrd
+\end_inset
+
+ consonantal sound
+\begin_inset Quotes xrd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+202210056675.2 | 2026CN-PHD212451
+\end_layout
+
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jan.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+22
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Quotes xld
+\end_inset
+
+Methodologies and Systems for generating characteristic encodings of speech
+ sound disorders of consonantal sounds
+\begin_inset Quotes xrd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+202210055395.X | 2026CN-PHD212452
+\end_layout
+
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jan.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+22
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Quotes xld
+\end_inset
+
+Handling methodologies for data lookup and database systems for correction
+ and treatment of speech sound disorders of consonantal sounds
+\begin_inset Quotes xrd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+202210056665.9 | 2026CN-PHD212453
+\end_layout
+
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jan.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+22
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Quotes xld
+\end_inset
+
+An analysis system for speech sound disorders of consonantal sounds based
+ on speech recognition
+\begin_inset Quotes xrd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+202210056678.6 | 2026CN-PHD212454
+\end_layout
+
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jan.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+22
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Quotes xld
+\end_inset
+
+A generating system for correction and treatment solutions of speech sound
+ disorders pertaining to the 
+\begin_inset Quotes qld
+\end_inset
+
+d
+\begin_inset Quotes qrd
+\end_inset
+
+ consonantal sound
+\begin_inset Quotes xrd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+202210055400.7 | 2026CN-PHD212455
+\end_layout
+
+\end_inset
+
+
+\size default
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Jan.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+22
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Quotes xld
+\end_inset
+
+Methodologies and Systems for digitalization of development history of autism
+ children, prediction of occupational prospects and effect evaluation of
+ treatment classes
+\begin_inset Quotes xrd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size footnotesize
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+202211094680.9 | PHD-220542
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Sep.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+22
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Tabular
+<lyxtabular version="3" rows="25" columns="3">
 <features booktabs="true" islongtable="true" longtabularalignment="center">
 <column alignment="left" valignment="top" width="60text%">
 <column alignment="center" valignment="top" width="4text%">
@@ -427,158 +1486,6 @@ status open
 
 \lang english
 17
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size large
-\lang english
-\begin_inset Flex Strong
-status open
-
-\begin_layout Plain Layout
-
-\family sans
-\size large
-\lang english
-Patent
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\lang english
-\begin_inset Quotes xld
-\end_inset
-
-Methods of Establishing Prediction-Models of Rehabilitation Efficacy of
- Child Autism
-\begin_inset Quotes xrd
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\family sans
-\size footnotesize
-Application Number: 
-\family default
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\size footnotesize
-\lang english
-202011188949.0
-\end_layout
-
-\end_inset
-
-
-\family sans
-\size default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\family default
-
-\begin_inset VSpace 1mm
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Oct.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-20
 \end_layout
 
 \end_inset
