@@ -572,7 +572,7 @@ status open
 \lang english
 B.Sc.
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -601,6 +601,37 @@ literal "false"
 \end_inset
 
  & M.Sc.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\size scriptsize
+\lang english
+\begin_inset Formula $\,$
+\end_inset
+
+
+\family sans
+
+\begin_inset CommandInset href
+LatexCommand href
+name "(M.Sc.) Semester Thesis"
+target "https://github.com/shengdichen/sem_tss"
+literal "false"
+
+\end_inset
+
+: An Empirical Study of Primal Wasserstein Imitation-Learning in Goal-Conditione
+d RL; supervised by Prof.
+ Dr.
+ J.
+ Buhmann, D-INFK.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
