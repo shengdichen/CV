@@ -20,5 +20,3 @@ function main() {
 }
 main
 unset -f main
-
-# vim: filetype=sh
