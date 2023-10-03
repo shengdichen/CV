@@ -12,6 +12,13 @@ function push_to_xyz() {
         "../src/main.pdf" \
         "ssh_xyz:domains/shengdichen.xyz/public_html/CV.pdf"
 }
-push_to_xyz
+
+function main() {
+    push_to_xyz
+
+    unset -f _by_scp push_to_xyz
+}
+main
+unset -f main
 
 # vim: filetype=sh
