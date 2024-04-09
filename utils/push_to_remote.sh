@@ -1,22 +1,18 @@
-#!/usr/bin/env bash
+#!/usr/bin/env dash
 
-function _by_scp() {
-    local local_path=$1
-    local remote_path=$2
-
-    scp "${local_path}" "${remote_path}"
+__by_scp() {
+    scp "${1}" "${2}"
 }
 
-function push_to_xyz() {
-    _by_scp \
+__push() {
+    __by_scp \
         "../src/main.pdf" \
         "ssh_xyz:domains/shengdichen.xyz/public_html/CV.pdf"
 }
 
-function main() {
-    push_to_xyz
-
-    unset -f _by_scp push_to_xyz
+main() {
+    __push
+    unset -f __by_scp __push
 }
 main
 unset -f main
