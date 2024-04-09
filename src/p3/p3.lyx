@@ -632,6 +632,37 @@ d RL; supervised by Prof.
 \end_inset
 
 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\size scriptsize
+\lang english
+\begin_inset Formula $\,$
+\end_inset
+
+
+\family sans
+
+\begin_inset CommandInset href
+LatexCommand href
+name "M.Sc. Thesis [Source Code]"
+target "https://github.com/shengdichen/msc_code"
+literal "false"
+
+\end_inset
+
+: (currently ongoing) Operator Learning with Dynamic Masking; supervised
+ by Prof.
+ Dr.
+ S.
+ Mishra, D-MATH.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -770,7 +801,7 @@ status open
 \begin_layout Plain Layout
 
 \lang english
-Aug.
+Jul.
 \end_layout
 
 \end_inset
@@ -786,7 +817,7 @@ status open
 \begin_layout Plain Layout
 
 \lang english
-23
+24
 \end_layout
 
 \end_inset
