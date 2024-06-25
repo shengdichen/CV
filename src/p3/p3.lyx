@@ -647,17 +647,19 @@ status open
 
 \begin_inset CommandInset href
 LatexCommand href
-name "M.Sc. Thesis [Source Code]"
-target "https://github.com/shengdichen/msc_code"
+name "M.Sc. Thesis"
+target "https://github.com/shengdichen/msc_tss"
 literal "false"
 
 \end_inset
 
-: (currently ongoing) Operator Learning with Dynamic Masking; supervised
- by Prof.
+ (evaluation pending):
+ Masked PDE-Learning;
+ supervised by Prof.
  Dr.
  S.
- Mishra, D-MATH.
+ Mishra,
+ D-MATH.
 \end_layout
 
 \end_inset
