@@ -161,8 +161,8 @@ todonotes
 
 \size scriptsize
 \begin_inset Graphics
-	filename /mnt/x/Dox/amperstand/me/cv/bin/me.jpg
-	height 4.85cm
+	filename ../bin/me.jpg
+	special height=4.85cm
 
 \end_inset
 
