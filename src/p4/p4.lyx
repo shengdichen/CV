@@ -270,31 +270,7 @@ META Motoren- und Energie-Technik GmbH
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jul.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-15
-\end_layout
-
+\begin_inset Formula $\texttt{Jul.}\:\texttt{15}$
 \end_inset
 
 
@@ -353,63 +329,7 @@ Vanke Co.,
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jul.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-17
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\;\;\rightharpoonup\;\;$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Aug.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-17
-\end_layout
-
+\begin_inset Formula $\texttt{Jul.}\:\texttt{17}\;\;\rightharpoonup\;\;\texttt{Aug.}\:\texttt{17}$
 \end_inset
 
 
@@ -502,39 +422,7 @@ Department of Speech Pathology & Audiology,
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Sep.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-17
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\;\;\rightharpoonup\;\;$
-\end_inset
-
-
-\begin_inset Formula $\star$
+\begin_inset Formula $\texttt{Sep.}\:\texttt{17}\;\;\rightharpoonup\;\;\star$
 \end_inset
 
 
