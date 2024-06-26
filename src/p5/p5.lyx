@@ -1,5 +1,5 @@
-#LyX 2.3 created this file. For more info see http://www.lyx.org/
-\lyxformat 544
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -22,11 +22,11 @@ enumitem
 logicalmkup
 todonotes
 \end_modules
-\maintain_unincluded_children false
+\maintain_unincluded_children no
 \language german-ch
 \language_package default
-\inputencoding auto
-\fontencoding global
+\inputencoding auto-legacy
+\fontencoding auto
 \font_roman "default" "Libertinus Serif"
 \font_sans "default" "Avenir LT Std"
 \font_typewriter "default" "Source Code Pro"
@@ -34,7 +34,9 @@ todonotes
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
-\font_osf false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 93
 \use_microtype true
@@ -57,7 +59,7 @@ todonotes
 \pdf_backref false
 \pdf_pdfusetitle true
 \pdf_quoted_options "linkcolor=black,  frenchlinks=true, citecolor=black, urlcolor=blue, filecolor=blue, pdfpagelayout=OneColumn, pdfnewwindow=true, pdfstartview=XYZ, plainpages=false"
-\papersize a4paper
+\papersize a4
 \use_geometry true
 \use_package amsmath 1
 \use_package amssymb 1
@@ -79,7 +81,9 @@ todonotes
 \suppress_date false
 \justification true
 \use_refstyle 1
+\use_formatted_ref 0
 \use_minted 0
+\use_lineno 0
 \index Index
 \shortcut idx
 \color #008000
@@ -101,12 +105,17 @@ todonotes
 \papercolumns 1
 \papersides 2
 \paperpagestyle fancy
+\tablestyle default
 \listings_params "basicstyle={\ttfamily\normalsize},commentstyle={\sffamily},columns=fullflexible,numbers=left,numberstyle={\ttfamily\scriptsize},stepnumber=1,numberblanklines=false,firstline=1,numbersep=9pt,frame=tlb,framexleftmargin=3pt,framextopmargin=2pt,framexbottommargin=1pt,aboveskip={\medskipamount},belowskip={\medskipamount},captionpos=b,floatplacement=tbp,tabsize=4,resetmargins=false,breaklines=true,breakatwhitespace=false,breakautoindent=true,breakindent=0pt,prebreak={...},postbreak={...},extendedchars=true"
 \tracking_changes false
 \output_changes false
+\change_bars false
+\postpone_fragile_content false
 \html_math_output 0
 \html_css_as_file 0
 \html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
 \end_header
 
 \begin_body
@@ -230,8 +239,7 @@ Granted
 \begin_inset Quotes xld
 \end_inset
 
-Methods of Establishing Prediction-Models of Rehabilitation Efficacy of
- Child Autism
+Methods of Establishing Prediction-Models of Rehabilitation Efficacy of Child Autism
 \begin_inset Quotes xrd
 \end_inset
 
@@ -277,29 +285,7 @@ ZL 2021 1 0111675.3
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Sep.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-21
-\end_layout
-
+\begin_inset Formula $\texttt{Sep.}\:\texttt{21}$
 \end_inset
 
 
@@ -367,8 +353,7 @@ Pending
 \begin_inset Quotes xld
 \end_inset
 
-A management system for correction and treatment of speech sound disorders
- in Mandarin Chinese for evaluation subjects of autism spectrum disorder
+A management system for correction and treatment of speech sound disorders in Mandarin Chinese for evaluation subjects of autism spectrum disorder
 \begin_inset Quotes xrd
 \end_inset
 
@@ -414,29 +399,7 @@ status open
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jan.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-22
-\end_layout
-
+\begin_inset Formula $\texttt{Jan.}\:\texttt{22}$
 \end_inset
 
 
@@ -455,8 +418,7 @@ status open
 \begin_inset Quotes xld
 \end_inset
 
-An intelligent recommendation and delivery method of speech-training solutions
- of Mandarin Chinese
+An intelligent recommendation and delivery method of speech-training solutions of Mandarin Chinese
 \begin_inset Quotes xrd
 \end_inset
 
@@ -502,29 +464,7 @@ status open
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jan.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-22
-\end_layout
-
+\begin_inset Formula $\texttt{Jan.}\:\texttt{22}$
 \end_inset
 
 
@@ -543,8 +483,7 @@ status open
 \begin_inset Quotes xld
 \end_inset
 
-A generating system for correction and treatment solutions of speech sound
- disorders pertaining to the 
+A generating system for correction and treatment solutions of speech sound disorders pertaining to the 
 \begin_inset Quotes qld
 \end_inset
 
@@ -598,29 +537,7 @@ status open
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jan.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-22
-\end_layout
-
+\begin_inset Formula $\texttt{Jan.}\:\texttt{22}$
 \end_inset
 
 
@@ -639,8 +556,7 @@ status open
 \begin_inset Quotes xld
 \end_inset
 
-A generating system for correction and treatment solutions of speech sound
- disorders pertaining to the 
+A generating system for correction and treatment solutions of speech sound disorders pertaining to the 
 \begin_inset Quotes qld
 \end_inset
 
@@ -694,29 +610,7 @@ status open
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jan.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-22
-\end_layout
-
+\begin_inset Formula $\texttt{Jan.}\:\texttt{22}$
 \end_inset
 
 
@@ -735,8 +629,7 @@ status open
 \begin_inset Quotes xld
 \end_inset
 
-Methodologies and Systems for generating characteristic encodings of speech
- sound disorders of consonantal sounds
+Methodologies and Systems for generating characteristic encodings of speech sound disorders of consonantal sounds
 \begin_inset Quotes xrd
 \end_inset
 
@@ -782,29 +675,7 @@ status open
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jan.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-22
-\end_layout
-
+\begin_inset Formula $\texttt{Jan.}\:\texttt{22}$
 \end_inset
 
 
@@ -823,8 +694,7 @@ status open
 \begin_inset Quotes xld
 \end_inset
 
-Handling methodologies for data lookup and database systems for correction
- and treatment of speech sound disorders of consonantal sounds
+Handling methodologies for data lookup and database systems for correction and treatment of speech sound disorders of consonantal sounds
 \begin_inset Quotes xrd
 \end_inset
 
@@ -870,29 +740,7 @@ status open
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jan.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-22
-\end_layout
-
+\begin_inset Formula $\texttt{Jan.}\:\texttt{22}$
 \end_inset
 
 
@@ -911,8 +759,7 @@ status open
 \begin_inset Quotes xld
 \end_inset
 
-An analysis system for speech sound disorders of consonantal sounds based
- on speech recognition
+An analysis system for speech sound disorders of consonantal sounds based on speech recognition
 \begin_inset Quotes xrd
 \end_inset
 
@@ -958,29 +805,7 @@ status open
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jan.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-22
-\end_layout
-
+\begin_inset Formula $\texttt{Jan.}\:\texttt{22}$
 \end_inset
 
 
@@ -999,8 +824,7 @@ status open
 \begin_inset Quotes xld
 \end_inset
 
-A generating system for correction and treatment solutions of speech sound
- disorders pertaining to the 
+A generating system for correction and treatment solutions of speech sound disorders pertaining to the 
 \begin_inset Quotes qld
 \end_inset
 
@@ -1054,29 +878,7 @@ status open
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jan.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-22
-\end_layout
-
+\begin_inset Formula $\texttt{Jan.}\:\texttt{22}$
 \end_inset
 
 
@@ -1095,9 +897,8 @@ status open
 \begin_inset Quotes xld
 \end_inset
 
-Methodologies and Systems for digitalization of development history of autism
- children, prediction of occupational prospects and effect evaluation of
- treatment classes
+Methodologies and Systems for digitalization of development history of autism children,
+ prediction of occupational prospects and effect evaluation of treatment classes
 \begin_inset Quotes xrd
 \end_inset
 
@@ -1137,29 +938,7 @@ status open
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Sep.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-22
-\end_layout
-
+\begin_inset Formula $\texttt{Sep.}\:\texttt{22}$
 \end_inset
 
 
@@ -1362,8 +1141,7 @@ status collapsed
 
 
 \family sans
-No monetary funding due to non-German nationality and non-German University
- for B.Sc.
+No monetary funding due to non-German nationality and non-German University for B.Sc.
  Studies.
 \begin_inset Newline newline
 \end_inset
@@ -1390,7 +1168,8 @@ status open
 
 \end_inset
 
-Contact: Dr.
+Contact:
+ Dr.
  R.
  Hain
 \family default
@@ -1463,31 +1242,7 @@ status open
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Dec.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-17
-\end_layout
-
+\begin_inset Formula $\texttt{Dec.}\:\texttt{17}$
 \end_inset
 
 
@@ -1555,8 +1310,7 @@ Publication
 \begin_inset Quotes xld
 \end_inset
 
-Evaluation and Training of Social Ability of Children with Autism Based
- on Robot Technology
+Evaluation and Training of Social Ability of Children with Autism Based on Robot Technology
 \begin_inset Quotes xrd
 \end_inset
 
@@ -1566,7 +1320,8 @@ Evaluation and Training of Social Ability of Children with Autism Based
 
 
 \size footnotesize
-China Educational Technology & Equipment, 
+China Educational Technology & Equipment,
+ 
 \begin_inset Flex Code
 status open
 
@@ -1609,31 +1364,7 @@ status open
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jun.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-21
-\end_layout
-
+\begin_inset Formula $\texttt{Jun.}\:\texttt{21}$
 \end_inset
 
 
@@ -1747,29 +1478,7 @@ AMC 8
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Oct.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-10
-\end_layout
-
+\begin_inset Formula $\texttt{Oct.}\:\texttt{10}$
 \end_inset
 
 
@@ -1848,29 +1557,7 @@ https://www.comap-math.com/himcm/2013Certs/4141.pdf
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jan.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-14
-\end_layout
-
+\begin_inset Formula $\texttt{Jan.}\:\texttt{14}$
 \end_inset
 
 
@@ -1949,29 +1636,7 @@ https://www.comap-math.com/mcm/2014Certs/29477.pdf
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Apr.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-14
-\end_layout
-
+\begin_inset Formula $\texttt{Apr.}\:\texttt{14}$
 \end_inset
 
 
@@ -2027,31 +1692,7 @@ State Gold Medalist & Champion
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Feb.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-15
-\end_layout
-
+\begin_inset Formula $\texttt{Feb.}\:\texttt{15}$
 \end_inset
 
 
@@ -2107,31 +1748,7 @@ National Silver Medalist
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jun.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-15
-\end_layout
-
+\begin_inset Formula $\texttt{Jun.}\:\texttt{15}$
 \end_inset
 
 
@@ -2204,31 +1821,7 @@ https://web.archive.org/web/20151203233036/http://bw15.math.su.se/?page_id=23
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Nov.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-15
-\end_layout
-
+\begin_inset Formula $\texttt{Nov.}\:\texttt{15}$
 \end_inset
 
 
@@ -2284,31 +1877,7 @@ State Gold Medalist & Champion
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Feb.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-16
-\end_layout
-
+\begin_inset Formula $\texttt{Feb.}\:\texttt{16}$
 \end_inset
 
 
@@ -2337,7 +1906,8 @@ Prize
 
 
 \size footnotesize
-First Round: Federal Contest of Mathematics of Germany 
+First Round:
+ Federal Contest of Mathematics of Germany 
 \size scriptsize
 (Bundeswettbewerb Mathematik)
 \family default
@@ -2366,31 +1936,7 @@ First Round: Federal Contest of Mathematics of Germany
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-May.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-16
-\end_layout
-
+\begin_inset Formula $\texttt{May.}\:\texttt{16}$
 \end_inset
 
 
@@ -2461,31 +2007,7 @@ Math Kangaroo Competition
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-May.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-16
-\end_layout
-
+\begin_inset Formula $\texttt{May.}\:\texttt{16}$
 \end_inset
 
 
@@ -2553,31 +2075,7 @@ Prize
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Feb.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-17
-\end_layout
-
+\begin_inset Formula $\texttt{Feb.}\:\texttt{17}$
 \end_inset
 
 
@@ -2693,31 +2191,7 @@ https://thehague.thimun.org/
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jan.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-16
-\end_layout
-
+\begin_inset Formula $\texttt{Jan.}\:\texttt{16}$
 \end_inset
 
 
@@ -2753,7 +2227,8 @@ https://thehague.thimun.org/
 
 
 \size footnotesize
-CPE (Certificate of Proficiency in English), CEFR C2
+CPE (Certificate of Proficiency in English),
+ CEFR C2
 \family default
 \size default
 
@@ -2780,31 +2255,7 @@ CPE (Certificate of Proficiency in English), CEFR C2
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jun.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-16
-\end_layout
-
+\begin_inset Formula $\texttt{Jun.}\:\texttt{16}$
 \end_inset
 
 
@@ -2827,7 +2278,8 @@ Goethe-Zertifikat
 
 
 \size footnotesize
-Grosses Deutsches Sprachdiplom, CEFR C2
+Grosses Deutsches Sprachdiplom,
+ CEFR C2
 \family default
 \size default
 
@@ -2854,31 +2306,7 @@ Grosses Deutsches Sprachdiplom, CEFR C2
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Sep.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-16
-\end_layout
-
+\begin_inset Formula $\texttt{Sep.}\:\texttt{16}$
 \end_inset
 
 
@@ -2940,31 +2368,7 @@ Prize
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Sep.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-16
-\end_layout
-
+\begin_inset Formula $\texttt{Sep.}\:\texttt{16}$
 \end_inset
 
 
@@ -3004,8 +2408,7 @@ status open
 
 
 \family sans
-Automatic admission to German Academic Scholarship Foundation (Studienstiftung
- des deutschen Volkes).
+Automatic admission to German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes).
 \end_layout
 
 \end_inset
@@ -3053,31 +2456,7 @@ Automatic admission to German Academic Scholarship Foundation (Studienstiftung
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Sep.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-17
-\end_layout
-
+\begin_inset Formula $\texttt{Sep.}\:\texttt{17}$
 \end_inset
 
 
@@ -3169,63 +2548,7 @@ Business@school
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Aug.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-15
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\;\;\rightharpoonup\;\;$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jun.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-16
-\end_layout
-
+\begin_inset Formula $\texttt{Aug.}\:\texttt{15}\;\rightharpoonup\;\texttt{Jun.}\:\texttt{16}$
 \end_inset
 
 
@@ -3242,7 +2565,8 @@ status open
 
 \family sans
 \lang english
-TOPSIM: General Management
+TOPSIM:
+ General Management
 \family default
 
 \begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
@@ -3268,31 +2592,7 @@ TOPSIM: General Management
 \begin_layout Plain Layout
 
 \lang english
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-Jun.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Formula $\:$
-\end_inset
-
-
-\begin_inset Flex Code
-status open
-
-\begin_layout Plain Layout
-
-\lang english
-16
-\end_layout
-
+\begin_inset Formula $\texttt{Jun.}\:\texttt{16}$
 \end_inset
 
 
