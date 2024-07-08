@@ -313,6 +313,81 @@ shenchen@ethz.ch
 \end_inset
 
 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+me
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset space \textvisiblespace{}
+\end_inset
+
+ 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+@
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset space \textvisiblespace{}
+\end_inset
+
+ 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+shengdichen
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset space \textvisiblespace{}
+\end_inset
+
+ 
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+.
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset space \textvisiblespace{}
+\end_inset
+
+
+\begin_inset Flex Code
+status open
+
+\begin_layout Plain Layout
+xyz
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -379,7 +454,7 @@ Gender
 
 \family sans
 \begin_inset Formula $\begin{alignedat}{1}\textsf{Stettbachstrasse 43}\\
-\textsf{8057}\;\textsf{Zürich}\\
+\textsf{8051}\;\textsf{Zürich}\\
 \textsf{Schweiz}
 \end{alignedat}
 \quad\quad\:$
@@ -423,9 +498,8 @@ DoB
 \end_inset
 
 :
- 09.
- Oct.
- 1997
+ 1997 Oct.
+ 09
 \end_layout
 
 \end_inset
@@ -914,7 +988,7 @@ shenchen@ethz.ch
 \begin_layout Plain Layout
 
 \family sans
-Control Theoretician & Software Developer
+Data analyst & Software developer
 \begin_inset Newline newline
 \end_inset
 
@@ -943,13 +1017,6 @@ Department of Speech Pathology & Audiology,
 \end_inset
 
 
-\begin_inset Newline newline
-\end_inset
-
-
-\family sans
-\size footnotesize
-(part-time)
 \end_layout
 
 \end_inset
@@ -1030,7 +1097,7 @@ status open
 \family sans
 B.Sc.
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1070,7 +1137,7 @@ status collapsed
 Semester Thesis:
  
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1107,7 +1174,7 @@ literal "false"
 
 
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1126,7 +1193,7 @@ literal "false"
 
 \end_inset
 
- (evaluation pending):
+ (5.5/6.0):
  Masked PDE-Learning;
  supervised by Prof.
  Dr.
@@ -1204,11 +1271,7 @@ ETH Zürich
 \family default
 \size default
 
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset VSpace 1mm
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{\frac{}{\frac{}{}}}}}$
 \end_inset
 
 
@@ -1252,7 +1315,7 @@ status open
 
 \family sans
 \size large
-High School
+Secondary School
 \end_layout
 
 \end_inset
@@ -1292,7 +1355,7 @@ High School
 \begin_layout Plain Layout
 
 \family sans
-Privates Internatsgymnasium Schloss Torgelow
+Private Boarding School Schloss Torgelow
 \begin_inset Newline newline
 \end_inset
 
@@ -1334,7 +1397,7 @@ Shanghai Foreign Language School
 \end_inset
 
 
-\begin_inset Formula $\texttt{Sep.}\:\texttt{13}\;\rightharpoonup\;\texttt{Sep.}\:\texttt{14}$
+\begin_inset Formula $\texttt{Sep.}\:\texttt{09}\;\rightharpoonup\;\texttt{Sep.}\:\texttt{14}$
 \end_inset
 
 
@@ -1412,7 +1475,11 @@ Languages
 \family sans
 English,
  German,
- Chinese (fluent)
+ Chinese
+\begin_inset Formula $\;\;$
+\end_inset
+
+(fluent)
 \begin_inset Newline newline
 \end_inset
 
@@ -1424,7 +1491,11 @@ English,
 
 
 \family sans
-French (proficient)
+French
+\begin_inset Formula $\;\,$
+\end_inset
+
+(proficient)
 \begin_inset Newline newline
 \end_inset
 
@@ -1437,7 +1508,11 @@ French (proficient)
 
 \family sans
 Russian,
- Arabic [MSA] (conversational)
+ Arabic [MSA]
+\begin_inset Formula $\;\;\,$
+\end_inset
+
+(conversational)
 \end_layout
 
 \end_inset
@@ -1492,6 +1567,14 @@ Publications
 \end_inset
 
 
+\family sans
+\size large
+
+\begin_inset Formula $\;\;$
+\end_inset
+
+(excerpt)
+\family default
 \size larger
 
 \begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
@@ -1533,7 +1616,15 @@ Publications
 \begin_inset Formula $\,$
 \end_inset
 
-Method to Informationize the Development of Autistic Children and Predict their Future Career
+Method to Informationize the Development of Autistic Children and
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\;\:\,$
+\end_inset
+
+Predict their Future Career
 \begin_inset Formula $\,$
 \end_inset
 
@@ -1600,7 +1691,15 @@ United States Patent and Trademark,
 \begin_inset Formula $\,$
 \end_inset
 
-Evaluation and Training of Social Ability of Children with Autism Based on Robot Technology
+Evaluation and Training of Social Ability of Children with Autism
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\;\:\,$
+\end_inset
+
+Based on Robot Technology
 \begin_inset Formula $\,$
 \end_inset
 
@@ -1613,18 +1712,13 @@ Evaluation and Training of Social Ability of Children with Autism Based on Robot
 \end_inset
 
 
+\family sans
 \size footnotesize
 China Educational Technology & Equipment,
  
-\begin_inset Flex Code
-status open
+\family default
 
-\begin_layout Plain Layout
-
-\size footnotesize
-1671-489X
-\end_layout
-
+\begin_inset Formula $\texttt{1671-489X}$
 \end_inset
 
 
@@ -1659,6 +1753,44 @@ status open
 \end_inset
 
 
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="3">
+<features booktabs="true" islongtable="true" longtabularalignment="center">
+<column alignment="left" valignment="top" width="85text%">
+<column alignment="center" valignment="top" width="4text%">
+<column alignment="right" valignment="top" width="5.5text%">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size largest
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+\size largest
+Skills and Interests
+\end_layout
+
+\end_inset
+
+
+\size larger
+
+\begin_inset Formula $\vphantom{\frac{}{\frac{}{}}}$
+\end_inset
+
+
+\size default
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="2">
 <features booktabs="true" islongtable="true" longtabularalignment="left">
@@ -1837,6 +1969,126 @@ Operator & Reinforcement Learning,
 Classical violinist,
  member of orchestra KGO Zürich;
  rowing (indoor) enthusiast
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\begin_inset Formula $\texttt{Python}$
+\end_inset
+
+,
+ shell-scripting (
+\begin_inset Formula $\texttt{bash}$
+\end_inset
+
+ & 
+\begin_inset Formula $\texttt{powershell}$
+\end_inset
+
+),
+ 
+\begin_inset Formula $\texttt{lua}$
+\end_inset
+
+,
+ 
+\begin_inset Formula $\texttt{javascript}$
+\end_inset
+
+,
+ 
+\begin_inset Formula $\texttt{C}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\family default
+
+\begin_inset VSpace 1mm
+\end_inset
+
+
+\family sans
+Operator & Reinforcement Learning,
+ Linux sys-admin,
+ Qt toolkit,
+ SQL
+\begin_inset Newline newline
+\end_inset
+
+
+\family default
+
+\begin_inset VSpace 1mm
+\end_inset
+
+
+\family sans
+Classical violinist,
+ member of orchestra KGO Zürich;
+ rowing (indoor) enthusiast
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
